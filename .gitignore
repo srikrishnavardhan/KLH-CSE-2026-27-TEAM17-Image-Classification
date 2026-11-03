@@ -1,0 +1,19 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local dataset archives and extracted CIFAR-10 batches
+cifar-10-python.tar.gz
+cifar-10-python/cifar-10-batches-py/data_batch_*
+cifar-10-python/cifar-10-batches-py/test_batch
+
+# Office temporary lock files
+~$*.pptx
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
